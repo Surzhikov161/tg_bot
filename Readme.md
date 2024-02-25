@@ -12,7 +12,7 @@
 ### Запуск
 
 1. Клонируйте репозиторий
-   командой ```git clone https://gitlab.skillbox.ru/artem_surzhikov/python_basic_diploma.git```
+   командой ```git clone https://github.com/Surzhikov161/tg_bot.git)```
 2. Настроить параметры окружения ([BOT_TOKEN](https://core.telegram.org/bots/tutorial), RAPID_API_KEY) в файле .env;
 3. Запустить бота ```python main.py```.
 
