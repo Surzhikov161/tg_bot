@@ -1,5 +1,5 @@
-pip install python-dotenvimport os
 from dotenv import load_dotenv, find_dotenv
+import os
 
 if not find_dotenv():
     exit('Переменные окружения не загружены, так как отстутсвтует файл .env')
